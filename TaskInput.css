@@ -1,0 +1,22 @@
+.form {
+  background-color: blueviolet;
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  border: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.input {
+  padding: 20px;
+  border-right: 40px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  border-radius: 0;
+  border-left: 20px;
+}
